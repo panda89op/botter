@@ -1,0 +1,5 @@
+{
+	"ip":"ZeroDoesThings.aternos.me",
+	"port": "14847",
+	"name": "cuddlypanda"
+}
